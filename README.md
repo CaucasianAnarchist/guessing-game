@@ -2,7 +2,7 @@
 https://doc.rust-lang.ru/book/ch02-00-guessing-game-tutorial.html
 
 # Cloning repository
-git clone https://github.com/NovaKoko25/guessing-game
+git clone https://github.com/CaucaucasianAnarchist/guessing-game
 
 # Run with Cargo
 cd hello_world/hello_cargo && cargo run
